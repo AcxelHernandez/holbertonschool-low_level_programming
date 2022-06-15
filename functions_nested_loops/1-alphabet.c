@@ -4,7 +4,7 @@
 /**
  * main - function that prints the alphabet,
  * in lowercase, followed by a new line
- * print_alphabet - prints the alphabet
+ * Description: prints the alphabet
  * Return: Always 0.
  */
 
