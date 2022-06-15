@@ -2,10 +2,8 @@
 
 
 /**
- * main - function that prints the alphabet,
- * in lowercase, followed by a new line
- * Description: print_alphabet is prints the alphabet
- * print_alphabet - prints
+ * print_alphabet - print_alphabet
+ * Description: in lowercase, followed by a new line
  * Return: Always 0.
  */
 
