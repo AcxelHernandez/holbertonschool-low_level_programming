@@ -6,6 +6,6 @@
  * Desc: Header file containing declarations all functions
  */
 
-int _isupper(char c);
+int _isupper(int c);
 
 #endif
